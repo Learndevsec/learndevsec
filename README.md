@@ -1,16 +1,93 @@
-## Hi there 👋
+# Hi 👋, I'm Rohit
 
-<!-- **Learndevsec/learndevsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
+💻 Backend Developer | Java | Spring Boot | DevSecOps  
+🔐 Passionate about Secure Application Development  
+🚀 Building Scalable & Secure Backend Systems  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on online shop for local shop
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on my startup
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Java, spring boot, sql, postgress, system design
-- 📫 How to reach me: rohitumar797@gmail.com  
-- 😄 Pronouns: Rohit
-- ⚡ Fun fact: I want to become extroword
-  
+## 🚀 About Me
 
+- 🔭 Currently working on **Spring Boot Secure Backend Projects**
+- 🌱 Learning **DevSecOps & Cloud Security**
+- 🐳 Working with **Docker & Containerized Applications**
+- ☁️ Exploring **AWS & Cloud Deployment**
+- 🔐 Interested in Secure Coding & API Security
+- 🎯 Goal: Become a Backend + Security Architect
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- Java 17
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST APIs
+
+### 🗄️ Database
+- MySQL
+- H2
+- PostgreSQL (Learning)
+
+### 🔐 Security
+- JWT Authentication
+- Role-Based Access Control
+- Secure REST APIs
+- Basic DevSecOps Practices
+
+### 🐳 DevOps & Tools
+- Docker
+- Git & GitHub
+- Maven
+- Postman
+- Linux (Ubuntu)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Learndevsec&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Learndevsec&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Learndevsec&theme=react-dark)
+
+---
+
+## 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Learndevsec&layout=compact&theme=tokyonight)
+
+---
+
+## 🏗️ Current Projects
+
+- 🏢 PG Management System (Spring Boot + Security + JWT)
+- 🐳 Dockerized Java Applications
+- 🔐 Secure REST API Architecture
+- ☁️ Cloud Deployment Practice Projects
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (Add your LinkedIn link)
+- 📧 Email: (Add your professional email)
+
+---
+
+⭐️ From [Learndevsec](https://github.com/Learndevsec)
+
+![Snake animation](https://github.com/Learndevsec/Learndevsec/blob/output/github-contribution-grid-snake.svg)
